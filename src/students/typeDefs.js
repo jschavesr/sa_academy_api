@@ -4,7 +4,7 @@ type Student {
     username: String!
     password: String!
 }
-input CourseInput {
+input StudentInput {
     username: String!
     password: String!
 }`;
